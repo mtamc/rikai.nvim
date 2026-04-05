@@ -30,9 +30,9 @@ require('rikai').setup({
 
   -- Floating window options
   float_opts = {
-    relative = 'cursor',
-    row = 1,
-    col = 0,
+    relative = 'cursor', -- 'editor' | 'win' | 'cursor' | 'mouse'
+    row = 1, -- vertical offset
+    col = 0, -- horizontal offset
     width = 60,
     height = 20,
     style = 'minimal', -- currently no other value supported
