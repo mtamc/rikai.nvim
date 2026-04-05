@@ -36,7 +36,7 @@ require('rikai').setup({
     width = 60,
     height = 20,
     style = 'minimal', -- currently no other value supported
-    border = 'rounded', -- 'none', 'single', 'double', 'rounded', 'solid', 'shadow'
+    border = 'rounded', -- 'none' | 'single' | 'double' | 'rounded' | 'solid' | 'shadow'
   }
 })
 EOF
