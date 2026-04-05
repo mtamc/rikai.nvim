@@ -2,6 +2,8 @@
 
 A Neovim plugin for looking up Japanese dictionary definitions at the cursor position. Port of [Rikaikun](https://github.com/melink14/rikaikun) by melink14.
 
+<img width="906" height="628" alt="1775379457" src="https://github.com/user-attachments/assets/c0a00632-e052-4370-aaa6-f2c8dfc34069" />
+
 ## Installation
 
 Install just like any other plugin e.g. using vim-plug:
