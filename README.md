@@ -1,6 +1,6 @@
 # rikai.nvim
 
-A Neovim plugin for looking up Japanese dictionary definitions at the cursor position. Port of [Rikaikun](https://github.com/melink14/rikaikun) by melink14.
+A Neovim plugin for looking up Japanese dictionary definitions at the cursor position. Minimalistic port of [Rikaikun](https://github.com/melink14/rikaikun) by melink14.
 
 <img width="729" height="462" alt="1775382917" src="https://github.com/user-attachments/assets/f568cc17-1b3a-4615-b005-c5a8d3d2703f" />
 
